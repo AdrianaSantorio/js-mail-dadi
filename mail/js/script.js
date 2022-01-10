@@ -15,7 +15,7 @@ console.table(authorizedUsers);
 
 //2 
 
-const userEmail = prompt("Inserire un' email valida per l' accesso", 'pippo@gmail.com');
+const userEmail = (prompt("Inserire un' email valida per l' accesso", 'pippo@gmail.com')).trim();
 
 console.log('userEmail:',userEmail);
 
