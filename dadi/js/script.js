@@ -1,3 +1,4 @@
+console.log('JS OK!');
 
 // # Gioco dei dadi
 /*
